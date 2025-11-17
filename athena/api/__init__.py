@@ -1,0 +1,4 @@
+"""
+Athena CLI/API entrypoints.
+"""
+
